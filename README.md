@@ -1,9 +1,9 @@
 # pysnippets
 
-...is a **non-representative** collection of short Python snippets that exemplify
+...is a non-representative collection of short Python snippets that exemplify
 
 - basic features such as builtin functions
-- frequently used packages from the standard library
+- frequently used modules and packages from the standard library
 - magic aka dunder methods
 - some syntactic sugar such as decorators, ternaries and comprehensions
 
